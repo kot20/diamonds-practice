@@ -1,1 +1,1 @@
-# diamonds-practice
+# random-practice
